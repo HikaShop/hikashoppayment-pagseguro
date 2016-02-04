@@ -13,6 +13,7 @@
 		<filename plugin="pagseguro">pagseguro.php</filename>
 		<filename>pagseguro_configuration.php</filename>
 		<filename>pagseguro_end.php</filename>
+		<filename>index.html</filename>
 		<folder>PagSeguroLibrary</folder>
 	</files>
 	<params addpath="/components/com_hikashop/params">
